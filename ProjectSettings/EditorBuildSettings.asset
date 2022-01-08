@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01_dewa_puzzle_screen_saver.unity
+    guid: 908543fe8c1cccb42ac733bd0c9affbe
+  - enabled: 1
+    path: Assets/Scenes/02_dewa_puzzle_webcam_photo.unity
+    guid: 8ba15d0acf87f2540ac5adaa9192c199
+  - enabled: 1
+    path: Assets/Scenes/03_dewa_puzzle_game.unity
+    guid: 06cdc4a40d1d2384586f56033bfbbc86
+  - enabled: 1
+    path: Assets/Scenes/04_dewa_puzzle_win.unity
+    guid: d857e0015a87dec488e97dc13eb02cb1
+  - enabled: 1
+    path: Assets/Scenes/04_dewa_puzzle_lose.unity
+    guid: 0ae76c59b326faf42996126472529c2e
+  - enabled: 1
+    path: Assets/Scenes/06_dewa_puzzle_registration.unity
+    guid: bd8b4e3466c319b4aafd9a37a40d8fa7
+  m_configObjects: {}
